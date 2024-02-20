@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Debora, @deborasal
-- 👀 I’m interested in Digital Twins, VR/AR, digital signal processing, AI and Data Analytics
-- 🌱 I’m currently learning about digital twins and AI
-- 💞️ I’m looking to collaborate on Digital Twins small applications
-- 📫 How to reach me on my Twitter @deborasal
+# Debora Salgado 👋
+##
+I am bimedical engineer and programmer based in Ireland. I am interested design applications in XR and Data Visualisation. I sharing some of my projects and ideas here. 
+
+Feel free to reach me on my Twitter @deborasal
+  
 
 <!---
 deborasal/deborasal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
