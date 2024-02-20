@@ -20,7 +20,7 @@ Feel free to reach me on my Twitter @deborasal
 
 ✨ BIM
 
-*TODO
+* TODO
 
  
 
