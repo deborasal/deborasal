@@ -10,7 +10,7 @@ Feel free to reach me on my Twitter @deborasal
 
 * uView - simulator
 
-✨ VR Cames
+✨ VR Games
 
 * Hanoi Tower
 
