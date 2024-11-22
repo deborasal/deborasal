@@ -6,21 +6,18 @@ Feel free to reach me on my Twitter @deborasal
 
 ##  Projects
 
-✨ Wheelchair Simulator in Unity
-
-* uView - simulator
-
 ✨ VR Games
 
 * Hanoi Tower
 
 ✨ HCI Data Analysis
 
-* WheelSimPhysio-2023
+* WheelSimPhysio-2023 & WheelSimAnalyser
+* GazeInsight
 
-✨ BIM
 
-* TODO
+
+
 
  
 
