@@ -15,6 +15,10 @@ Feel free to reach me on my Twitter @deborasal
 * WheelSimPhysio-2023 & WheelSimAnalyser
 * GazeInsight
 
+✨ Embedded Software Projects
+
+* RTOS-EMGlogger
+
 
 
 
